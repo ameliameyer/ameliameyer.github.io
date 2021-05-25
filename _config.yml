@@ -2,7 +2,7 @@
 title:               Amelia Meyer
 tagline:             'UCSB Student'
 description:         'Statistics and Data Science Major, German Minor'
-url:                 'http://ameliameyer.github.io'
+url:                 'https://ameliameyer.github.io'
 baseurl:             ''
 paginate:            5
 permalink:           pretty
